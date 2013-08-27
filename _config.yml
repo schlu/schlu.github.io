@@ -1,0 +1,5 @@
+name: Schlu.org
+markdown: redcarpet
+pygments: true
+safe: true
+lsi: false
