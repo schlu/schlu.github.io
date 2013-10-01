@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Xcode Asset Catalogs"
-date:   2013-09-28 09:54:58
+date:   2013-10-01 09:12:09
 ---
 
 ### Basics
