@@ -5,3 +5,13 @@ body {
 .navbar .container .brand {
   float:right;
 }
+
+.screen_shot {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.screen_shot .caption {
+  font-weight: bold;
+  font-size: 120%;
+}
