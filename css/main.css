@@ -15,3 +15,13 @@ body {
   font-weight: bold;
   font-size: 120%;
 }
+
+.promo {
+  border-top: 1px solid #999;
+  padding: 20px 0px 20px 0px;
+  margin-top: 10px;
+}
+
+.promo p {
+  font-size: 140%;
+}

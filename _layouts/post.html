@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="row">
+  <div class="span12">
+    <h2>{{ page.title }}</h2>
+    <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-{{ content }}
+    <div class="post">
+    {{ content }}
+    </div>
+  </div>
 </div>
+
+{% include twitter_promo.html %}
