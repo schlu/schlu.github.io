@@ -6,7 +6,7 @@ date:   2013-10-18 11:33:09
 
 ## Origin Story
 
-I am excited to announce my first new personal project in awhile. It is called [Lapse The World](http://lapsetheworld.com/). It is a app for making time lapses on your iPhone. It is my first (completed) project that involves [AVFoundation](https://developer.apple.com/av-foundation/). It took me way out of my comfort zone in the best possible way.
+I am excited to announce my first new personal project in awhile. It is called [Lapse the World](http://lapsetheworld.com/). It is a app for making time lapses on your iPhone. It is my first (completed) project that involves [AVFoundation](https://developer.apple.com/av-foundation/). It took me way out of my comfort zone in the best possible way.
 
 It started as a proof of concept because a job required me make extensive use of a framework I wasn't comfortable with. I didn't end up getting the job for a variety of reasons. I did end up getting a taste for audio and video programming. It is different than the usual consume web services and do something on the device. My friend calls this type of programming being a "bit dump truck driver". 
 
@@ -37,7 +37,7 @@ We are allowing you to pick up to 3 compressions while you record, because if yo
 
 We decided to make it free with In App Purchase. Enough digital ink has been spilled talking about app store pricing and the race to the bottom, so I am not going to go into further detail about it. But suffice to say, since Seth and I don't have huge internet followings, we thought it would sell better if it were free and people could pay to export their videos after they have tried it out.
 
-Seth also build a custom video scrubber that shows frames from your lapse. It is awesome and Seth will be open sourcing it shortly. For time lapses, it isn't that cool because most time lapses kinda look the same throughout the video, but if you use [Lapse The World](http://lapsetheworld.com/) while you are driving or something the scrubber should help you see different parts of your video while you are scrubbing.
+Seth also build a custom video scrubber that shows frames from your lapse. It is awesome and Seth will be open sourcing it shortly. For time lapses, it isn't that cool because most time lapses kinda look the same throughout the video, but if you use [Lapse the World](http://lapsetheworld.com/) while you are driving or something the scrubber should help you see different parts of your video while you are scrubbing.
 
 ## Finally
 
