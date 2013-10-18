@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lapse The World"
+title:  "Lapse the World"
 date:   2013-10-18 11:33:09
 ---
 
