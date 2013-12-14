@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Linkage"
+date:   2013-12-14 13:34:24
+---
+
+### A childhood dream
+
+Like many teenagers, I loved video games. When it was time to decide what I was going to do with my life, I thought it might be fun to make video games for people. So, I studied software, I built things, and somewhere along the way I stopped playing all but the most casual video games. This year when Apple announced [SpriteKit](https://developer.apple.com/library/IOs/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html), a 1st class iOS game framework, I decided to follow through on that dream.
+
+### The game
+
+<div class="row">
+
+  <div class="text-center screen_shot span6">
+    <img src="http://2limes.com/linkage/img/1.png" alt="Linkage 1" />
+  </div> 
+
+  <div class="text-center screen_shot span6">
+    <img src="http://2limes.com/linkage/img/3.png" alt="Linkage 2" />
+  </div> 
+</div>
+
+[Linkage](http://2limes.com/linkage/index.html) is the type of game I play now. Super easy to start playing, the longer you play the better you get. It feels like if you play longer you will get better at it. There is some strategy to it and you can get a better score by thinking. Most importantly, you can't buy your way to a better score.
+
+The general game play is inspired by Bejeweled. You swap and rotate tiles a make connections. There are two game modes. One is for people who like to go faster and be pressured. The other is for people who like to think. I think they are both fun. I would be honored if you would play it and let me know what you think. It is free so have fun.
+
+<div class="row">
+
+  <div class="text-center screen_shot span12">
+    <a href="https://itunes.apple.com/us/app/linkage-connect-the-dots/id687939966?ls=1&mt=8&at=11lbUE&ct=schlu_org"><img src="/img/Available_on_the_App_Store_Badge_US-UK_135x40.png" /></a>
+  </div>
+</div>
