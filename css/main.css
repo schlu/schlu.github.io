@@ -1,3 +1,15 @@
+@font-face {
+  font-family: Quicksand;
+  font-weight: normal;
+  src: url("/font/Quicksand-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Quicksand;
+  font-weight: bold;
+  src: url("/font/Quicksand-Bold.otf") format("opentype");
+}
+
 body {
   padding-top: 60px;
 }
@@ -24,4 +36,59 @@ body {
 
 .promo p {
   font-size: 140%;
+}
+
+body p {
+  font-family:'Quicksand', normal;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:'Quicksand', bold;
+  color: #6D3803;
+}
+
+.posts .content {
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #f9d4b0;
+}
+
+body a {
+  color: #E67E17;
+}
+
+body a:hover {
+  color: #8F673F;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 50px;
+}
+
+h1 {
+  font-size: 48.5px;
+}
+
+h2 {
+  font-size: 41.5px;
+}
+
+h3 {
+  font-size: 34.5px;
+}
+
+h4 {
+  font-size: 27.5px;
+}
+
+h5 {
+  font-size: 24px;
+}
+
+h6 {
+  font-size: 21.9px;
 }
