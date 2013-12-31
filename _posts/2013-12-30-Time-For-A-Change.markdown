@@ -6,7 +6,7 @@ date:   2013-12-14 13:34:24
 
 I have been in the DC area for 9 years. It is the longest I have lived anywhere in my adult life. I can't believe it has been that long.
 
-DC has been amazing for me. I have made lifelong friendships. I was one of the first employees at [Taxi Magic](http://taximagic.com). I started my own [business](http://2limes.com). I changed my career direction multiple times for the better. I attended the 2008 Obama inauguration when people were excited. I was able to do things I never imagined ever being able to do.
+DC has been amazing for me. I have made lifelong friendships. I was one of the first employees at [Taxi Magic](http://taximagic.com). I started my own [business](http://2limes.com). I changed my career direction multiple times for the better. I attended the 2008 Obama inauguration when people were excited. I was able to do things I never imagined being able to do.
 
 I say all that because when people relocate, I think there is a tendency to think they were unhappy. I was not unhappy. That said DC is a place that is difficult to call "home." It is big and people are constantly leaving (now I am one of them). I am mostly looking for a place that is a bit smaller with a bunch of new adventures.
 
