@@ -40,8 +40,14 @@ body {
 
 body p {
   font-family:'Quicksand', normal;
-  font-size: 26px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+body li {
+  font-size: 20px;
+  font-family:'Quicksand', normal;
+  line-height: 32px;
 }
 
 h1, h2, h3, h4, h5, h6 {
