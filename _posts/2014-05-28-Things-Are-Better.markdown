@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Things Are Better"
+date:   2014-05-28 11:40:38
+---
+
+In 2007 I was working at [Taxi Magic](http://taximagic.com). The iPhone had been announced, but it wasn't clear how big it would be. There was no Appstore in sight. Our goal was to let corporate users book, track and expense taxis from their smartphones. This was an ambitious goal that had a lot of moving pieces. We had to integrate with taxi dispatch systems, build a smartphone application and integrate with expense management companies. It was a lot for a small start up to take on. For most of the first 2 years there were 6ish of us on the engineering team.
+
+I remember the integrations being annoying, but never difficult. Integrations are time consuming, the most difficult part is convincing a 3rd party that you are something they should spend time on. All that pales in comparison to the hell that was getting an app onto a person's BlackBerry.
+
+As you know the smartphone king in the United States those days was BlackBerry (RIP). You could write apps for Blackberry, but pre Appstore you not only had to advertise but also help people install it. Our sign up process was hilarious, in a sad way. We had a wizard that would walk you through, signing up, configuring a payment method, deciding how you wanted to pay, installing the application and finally testing that application worked.
+
+Here is something you probably didn't know about Blackberry, some of the models didn't come configured with the ability to hit https endpoints. Yes you read that correctly you couldn't use secure endpoints without configuring your [APN](http://en.wikipedia.org/wiki/Access_Point_Name) on a few of the carriers (I think cingular for sure). So you had to add a step to the wizard, "What carrier do you have?" I would not have gone through the wizard if I were a user, it was horrible.
+
+But the funniest step of the whole configuration came after you went through that shitshow. Some models of Blackberries had to be rebooted to have their new settings take effect. And worse some of them didn't take effect unless you pulled the whole battery out. So, add a step to the wizard, "remove your battery." I remember we had one customer who called and wanted to use our system, but he didn't want to reboot his device. When we asked him why he couldn't reboot his device he said, "I don't want to lose my Brick Breaker game." Apparently he could pause his game of Brick Breaker and resume it. Obviously losing his score was a deal breaker. Tough to reason with that.
+
+I say all this not just to walk down memory lane. Sometimes, I think that all the horrible restrictions in the Appstore are holding us back from advancing computing to the next level. But I don't want to lose sight of how difficult it was for technical and nontechnical people to install 3rd party software on their Smartphones. We are now around 6 years from the announcement of the app store and the painful memories of getting software onto someone's phone have slowly faded away. In those 6 years we went from a 10 step wizard to a a single link; that is progress. Unfortunately, in those 6 years not much has changed, probably because the current system is working fine for the user. In 6 years I hope, we will all be talking about how terrible today's system was and be gleeful that the goals of the user, developer and platform provider are aligned. But in reality, I will probably just rewrite this article and increment all the numbers by 6 years ;)

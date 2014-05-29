@@ -1,7 +1,7 @@
 @font-face {
-  font-family: Quicksand;
+  font-family: ABeeZee;
   font-weight: normal;
-  src: url("/font/Quicksand-Regular.otf") format("opentype");
+  src: url("/font/ABeeZee-Regular.otf") format("opentype");
 }
 
 @font-face {
@@ -39,14 +39,14 @@ body {
 }
 
 body p {
-  font-family:'Quicksand', normal;
+  font-family:'ABeeZee', regular;
   font-size: 20px;
   line-height: 32px;
 }
 
 body li {
   font-size: 20px;
-  font-family:'Quicksand', normal;
+  font-family:'ABeeZee', regular;
   line-height: 32px;
 }
 
