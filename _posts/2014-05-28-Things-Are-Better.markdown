@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things Are Better"
-date:   2014-05-28 11:40:38
+date:   2014-05-29 11:07:38
 ---
 
 In 2007 I was working at [Taxi Magic](http://taximagic.com). The iPhone had been announced, but it wasn't clear how big it would be. There was no Appstore in sight. Our goal was to let corporate users book, track and expense taxis from their smartphones. This was an ambitious goal that had a lot of moving pieces. We had to integrate with taxi dispatch systems, build a smartphone application and integrate with expense management companies. It was a lot for a small start up to take on. For most of the first 2 years there were 6ish of us on the engineering team.
