@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Be Promiscuous"
+date:   2014-08-20 22:01:59
+---
+
+A friend of mine decided it was time to move on from his current long-term job. We were chatting about what he was going to do next. He wasn't exactly asking me for advice, but I was giving it to him anyway :) It felt weird because he has done many more things than I have, worked for huge companies, small companies, consulted, etc. Still, it seemed he was unsure of what he should do next. The best advice I could come up with was "Be Promiscuous."
+
+When you don't know what you want in life, the best thing to do is try a bunch of things quickly. In our society, promiscuity gets a bad rap. I think, as time goes on the stigma associated with promiscuity decreases. Our grandparents picked a company and stuck with them. Back then, you didn't experiment - you were a company man and, as such, you were rewarded for that loyalty.
+
+Times change. In most cases you are rewarded for jumping between companies. Constantly proving yourself over and over. By far the best way to get a raise or more responsibility is to find a new job. When an employer sees someone that has been successful again and again, their confidence increases. Crazily, they don't reward the people who stick with them long term. I assume they do a calculation in their head about how likely a person is to leave vs how much it would cost to insure the person stays. When employers think in aggregate about talent retention, they tend to undervalue individuals. Everyone understands that people come and go. Employers know that getting 12 months of a successful engineer's time is better than getting 4 years from someone who can merely keep their job.
+
+Similar to life, the best time in a career to experiment is when you are younger. You need to figure out what you actually want to do with your life. Do you crave solving hard problems? Or is making people's lives easier more important to you? Maybe an easy job, so you can take care of your family is best for you. You should experiment with the tools you use and the domains you work in. You should try anything you think you might like, and only change when you are bored, unhappy or generally feel stuck. When you make a change, at least have a vague understanding of how the change helps you accomplish one of your goals. If your change isn't working for you, start over at square one.
+
+Even if you are not young you should feel free to experiment with your career. It can seem like there is risk in switching jobs, but think how easy it is to get a new job with the skills you already know. Now consider how much easier it will be to find a job with the new skills you will learn. There is a saying, "the best time to plant a tree is 20 years ago, but the second to best time to plant one is now."
+
+I used to worry that switching jobs so often would reflect poorly on me in interviews. However, no one has ever asked me why I switched jobs so often, but it might be because I usually stay at least a year in a position. That is how long it takes me to get bored. Sometimes I stayed longer, if I was interested. Ultimately as I advance in my career, I value the feeling of change above all. Contracting was the perfect fit for that, you get to work with a team for awhile, learn from them, and when they don't need you anymore you get to move on; no hard feelings.
+
+I may end up taking a full time job again some day. I may end up starting a company and cursing all my employees who leave with their "institutional knowledge." But ultimately doing my best work depends on me being motivated and happy. Until then, promiscuity awaits.
