@@ -1,7 +1,0 @@
-Third Party Keyboards
-
-It is no secret that Apple announced third party keyboards at WWDC 2014. It is a small part of a change people are calling "the new Apple." On stage Craig Federighi demoed [Swype](http://www.swype.com) and the crowd cheered. I wasn't at WWDC, but I remember being super happy in my living room, because I knew that there would be so many novel ideas for keyboards.
-
-Today I thought I would take a step back and think about some of the choices Apple made. Apple's number one priority has always been customer privacy (much to the chagrin of developers). This has always made making power user applications challenging. Striking a balance between useful and kludgy was always challenging. Things like [x-callback-url](http://x-callback-url.com) where invented for apps to communicate, but ultimately they never gained wide spread adoption. Apple's new [extensions](https://developer.apple.com/ios8/) have given us a few more tools to help create better user experiences for customers, but as a developer you will still need to choose between trade offs.
-
-The biggest challenge is going to be educating users. For instance, if you have an app that exposes a custom keyboard you have to tell the users how to enable that keyboard. You could do it with a wall of text. Or you could do it with a video. Or both. 
