@@ -11,4 +11,4 @@ The fact that it was so similar to the regular show is mostly good because I lov
 The problem is that podcasts are generally a passive activity. So, sitting in a room with a bunch of other super fans listening to something that I normally hear while walking or doing the dishes, fundamentally changes the experience. I don't think live podcasts are a bad idea overall and I am happy to have supported Criminal (a great show, seriously just go subscribe!) Mostly, I think they are not a good fit for me and in the future I will only attend non-scripted live podcasts¹, like [FiveThirtyEight](http://fivethirtyeight.com/tag/elections-podcast/) panel style podcasts.
 
 
-¹As a small asside, I have purchased want watched live episodes of This American Life and Radiolab, but those are much bigger productions and go way beyond what I would consider a podcast.
+¹As a small asside, I have purchased and watched live episodes of This American Life and Radiolab, but those are much bigger productions and go way beyond what I would consider a podcast.
