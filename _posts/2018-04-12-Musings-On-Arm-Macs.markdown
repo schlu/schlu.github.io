@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Musings on ARM Macs"
-date:   2017-05-05 19:00:00
+date:   2018-04-12 11:15:00
 ---
 Recently, respected Apple pundit, [Jason Snell](https://sixcolors.com "Six Colors") published an article on [Macworld](https://www.macworld.com/article/3268029/macs/why-the-next-mac-processor-transition-wont-be-like-the-last-two.html) summarizing Apple’s previous two chip transitions from Motorola 6800 to PowerPC and then from PowerPC to Intel. The history part of the article is really good. And I think the punditry part is probably right in the very long run.
 
