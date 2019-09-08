@@ -6,7 +6,9 @@ date:   2017-05-05 19:00:00
 
 Look in any direction and you will see that automation is changing the face of employment, whether it be factory robotics or tax preparation. Blue collar workers and white collar workers alike need to start preparing for the future. But recently, [Century 21](http://www.century21.com/) recently put up a commercial so out of touch with reality.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HYNMuy4Becs" frameborder="0" allowfullscreen></iframe>
+<div class="video-responsive">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HYNMuy4Becs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Basically, they are trying to point out how awesome it is that they have real people. 🙄 
 

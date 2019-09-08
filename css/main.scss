@@ -1,3 +1,8 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+
 @font-face {
   font-family: ABeeZee;
   font-weight: normal;
@@ -8,14 +13,6 @@
   font-family: Quicksand;
   font-weight: bold;
   src: url("/font/Quicksand-Bold.otf") format("opentype");
-}
-
-body {
-  padding-top: 60px;
-}
-
-.navbar .container .brand {
-  float:right;
 }
 
 .screen_shot {
@@ -51,6 +48,10 @@ body li {
   line-height: 32px;
 }
 
+.navbar-expand-lg .container {
+  padding-left: 15px
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family:'Quicksand', bold;
   color: #6D3803;
@@ -60,6 +61,20 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
   padding-bottom: 5px;
   border-bottom: 1px solid #f9d4b0;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
 
 body a {

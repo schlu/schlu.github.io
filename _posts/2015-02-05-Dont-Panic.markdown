@@ -13,5 +13,6 @@ He gave a short answer, stating that as people become more healthy they choose t
 Over population, extreme poverty, birth rate, infant mortality, climate change, education, access to healthcare, and ignorance of the west are all interconnected in this video. The basic gist is that since birth rates are falling the population will begin growing much more slowly in the near future. He outlines a number of reasons why birth rates are falling like education, lower infant mortality rates and a general cultural shift in poor countries.
 
 I am not sure about everything being as cut and dry as he makes it. You really should watch the whole video and judge for yourself.
-
-<iframe src="http://player.vimeo.com/video/79878808" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/79878808">DON&#039;T PANIC &mdash; Hans Rosling showing the facts about population</a> from <a href="http://vimeo.com/gapminder">Gapminder</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="video-responsive">
+  <iframe src="http://player.vimeo.com/video/79878808" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/79878808">DON&#039;T PANIC &mdash; Hans Rosling showing the facts about population</a> from <a href="http://vimeo.com/gapminder">Gapminder</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>

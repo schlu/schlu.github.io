@@ -3,3 +3,5 @@ markdown: kramdown
 highlighter: pygments
 safe: true
 lsi: false
+sass:
+  sass_dir: css
