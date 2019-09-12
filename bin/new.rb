@@ -19,11 +19,11 @@ class NewBlog < Thor
     file_path = File.join(__dir__, "../_posts", slug)
 
     header = <<-HEADER
-    ---
-    layout: post
-    title:  "#{options[:title]}"
-    date:   #{title_date}
-    ---
+---
+layout: post
+title:  "#{options[:title]}"
+date:   #{title_date}
+---
     HEADER
 
     File.open(file_path, "w") do |io|  
