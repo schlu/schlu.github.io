@@ -10,6 +10,6 @@ SSD prices have come down significantly. Of course, when we look back in 5 years
   <img src="/img/samsung/drive.jpg" alt="Samsung Drive" />
 </div>
 
-The [Samsung T5 SSD](https://amzn.to/2QZ6zoS) has been super helpful for me over the last week as I have set up my shiny new 16” MacBook Pro. I know [Migration Assistant](https://support.apple.com/en-us/HT204350)is great for some people, but I like to start fresh when I get a new computer every 4 years or so. That requires me to move around large amounts of files I don’t want stored in the cloud.
+The [Samsung T5 SSD](https://amzn.to/2QZ6zoS) has been super helpful for me over the last week as I have set up my shiny new 16” MacBook Pro. I know [Migration Assistant](https://support.apple.com/en-us/HT204350) is great for some people, but I like to start fresh when I get a new computer every 4 years or so. That requires me to move around large amounts of files I don’t want stored in the cloud.
 
 In theory, you could get the [Samsung X5 SSD](https://amzn.to/2OOFCBv) which has read and write speeds 3 times faster. But unless you are using it a lot, I don’t think you can justify 400 dollars for the same amount of space.
